@@ -13,6 +13,7 @@ Spanish (Native)
 English (Advance Level)
 
 SKILLS
+
 Data Engineering & Analytics: SQL, ETL,
 Power BI, Tableau, Excel
 Programming: Python, Java, C#, HTML
