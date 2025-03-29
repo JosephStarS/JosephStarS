@@ -4,10 +4,14 @@ I am a Data Engineer with expertise in SQL, ETL pipelines, and data visualizatio
 Skilled in database management, data transformation, and automation. Certified in Data
 Engineering, with a focus on optimizing data workflows, automating processes, and generating insights
 to support business decisions.
+
 Email: joseph1602.js@gmail.com 
+
 Location: Heredia, Costa Rica
+
 Spanish (Native)
-English (B2)
+English (Advance Level)
+
 SKILLS
 Data Engineering & Analytics: SQL, ETL,
 Power BI, Tableau, Excel
